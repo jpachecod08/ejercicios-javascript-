@@ -1,0 +1,22 @@
+let nombreDelSuperhéroe = 'Batman';
+let Nombre =   'Bruce Wayne';
+let vuela = false;
+let maneja = true;
+let vida = 50;
+let trabajo = undefined;
+let tiempoLibre = null;
+
+console.log(nombreDelSuperhéroe,nombreDelSuperhéroe);
+console.log(nombreDelSuperhéroe,typeof nombreDelSuperhéroe);
+console.log(Nombre, Nombre);
+console.log(Nombre, typeof Nombre);
+console.log(vuela,vuela);
+console.log(vuela,typeof vuela);
+console.log(maneja,maneja);
+console.log(maneja,typeof maneja);
+console.log(vida, vida);
+console.log(vida,typeof vida);
+console.log(trabajo,trabajo);
+console.log(trabajo,typeof trabajo);
+console.log(tiempoLibre, tiempoLibre);
+console.log(tiempoLibre, typeof tiempoLibre);
